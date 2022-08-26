@@ -1,0 +1,31 @@
+.header{
+    display: flex;
+    flex-direction: row;
+    background-color:grey;
+    margin: 0;
+}
+.link{
+    margin-left: 10em;
+}
+
+body{
+    /* background-color: #9562b3; */
+    background-image: url("hey.jpg");
+
+
+    background-size: cover;
+  
+}
+#me{
+    color: brown;
+}
+.shoborder{
+    color: black;
+    background-color: yellow;
+    padding:4em;
+    /* border: 10px solid green; */
+    margin-top: 4em;
+   
+    
+
+}
